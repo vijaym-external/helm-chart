@@ -10,7 +10,7 @@ entries:
     name: helm-chart-test
     type: application
     sources:
-      - https://github.com/vijaym-external/helm-chart
+      - https://github.com/vijaym-external/helm-chart/edit/main/docs/
     urls:
-    - https://github.com/vijaym-external/helm-chart/helm-chart-test-0.1.0.tgz
+    - https://github.com/vijaym-external/helm-chart/blob/main/docs/helm-chart-test-0.1.0.tgz
     version: 0.1.0
